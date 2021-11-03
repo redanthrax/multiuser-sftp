@@ -1,0 +1,1 @@
+az deployment group create --resource-group SFTP-TEST --template-file main.bicep
